@@ -1,0 +1,4 @@
+[
+    // Edit
+    { "caption": "Edit: Count Duplicates", "command": "count_duplicates"},
+]
